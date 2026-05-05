@@ -1,0 +1,52 @@
+============================================================
+  PhoneXtract v3.0  --  Number Intelligence Report
+  Generated        : 2026-05-05 20:08:44
+  Target Number    : +919605267249
+============================================================
+
+  -- IDENTIFICATION -----------------------------------------
+  International    : +91 96052 67249
+  National Format  : 096052 67249
+  E164 Format      : +919605267249
+  RFC3966 Format   : tel:+91-96052-67249
+  Valid Number     : Yes
+  Possible Number  : Yes
+
+  -- LOCATION -----------------------------------------------
+  Country          : India
+  Region / State   : Not Available
+  Country Code     : +91
+  Region Code      : IN
+  Time Zone        : Asia/Calcutta
+
+  -- CARRIER & LINE -----------------------------------------
+  Carrier          : Idea
+  Phone Type       : Mobile
+  SIM Category     : Likely Prepaid   (Mobile)
+  Call Type        : Domestic  (Local / STD)
+  Mobile Number    : Yes
+  Toll Free        : No
+  VoIP / Internet  : No
+
+  -- NUMBER DETAILS -----------------------------------------
+  Number Length    : 10 digits
+  Area Code        : 960
+  Subscriber No.   : 5267249
+  Prefix (4-digit) : 9605
+
+  -- SOCIAL MEDIA -------------------------------------------
+  WhatsApp         : Registered  [+]
+
+  -- SPAM REPUTATION ----------------------------------------
+  Rating           : Could not fetch  (all sources unavailable)
+  Data Source      : N/A
+
+  -- NOTE ---------------------------------------------------
+  [!] Carrier is prefix-based. May differ if number
+      was ported to another carrier (MNP).
+  [!] Region/State is prefix-based, not real-time GPS.
+  [!] WhatsApp check is best-effort only.
+  [!] All data from public records. No API key used.
+============================================================
+  PhoneXtract v3.0  by Alok Thakur  |  Firewall Breaker
+============================================================
